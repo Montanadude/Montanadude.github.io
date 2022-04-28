@@ -47370,6 +47370,15 @@ charlestownwyllie.oaklawnnonantum.com^
 ||novunu.football-plyus.net^
 
 !
+! addinging textnow - taz
+!
+||event.textnow.me^
+||api.textnow.me^
+||rpc.textnow.me^
+||media.textnow.com^
+
+
+!
 ! Source name: Exception rules
 ! Source: Filters/exceptions.txt
 !
@@ -47592,8 +47601,3 @@ charlestownwyllie.oaklawnnonantum.com^
 @@||h-sdk.online-metrix.net^|
 ! Fixing Walmart
 @@||omniture.walmart.com^|
-! addinging textnow - taz
-@@||event.textnow.me^|
-@@||api.textnow.me^|
-@@||rpc.textnow.me^|
-@@||media.textnow.com^|
