@@ -47377,6 +47377,8 @@ charlestownwyllie.oaklawnnonantum.com^
 ||rpc.textnow.me^
 ||media.textnow.com^
 
+||yesichat.com^
+||www.vrchatporn.net^
 
 !
 ! Source name: Exception rules
