@@ -47380,6 +47380,10 @@ charlestownwyllie.oaklawnnonantum.com^
 ||yesichat.com^
 ||www.vrchatporn.net^
 
+||front1.omegle.com^
+||www.omegle.com^
+||front2.omegle.com^
+
 !
 ! Source name: Exception rules
 ! Source: Filters/exceptions.txt
